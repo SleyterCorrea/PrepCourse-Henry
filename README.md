@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba de henry
+Este proyecto es una prueba de como crear un repositorio y guardarlo en github
